@@ -1,0 +1,3 @@
+this is a go website input text receiver
+
+line 2 is added
